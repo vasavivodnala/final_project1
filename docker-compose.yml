@@ -1,0 +1,8 @@
+---
+version: '3'
+services:
+apping:
+image: "apping"
+ports:
+- "80:80"
+---
